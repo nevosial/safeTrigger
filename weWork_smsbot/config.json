@@ -1,0 +1,12 @@
+# configuration values
+
+twilio = {
+    'account_sid': '',
+    'auth_token': '',
+    'from_phone': ''
+}
+
+w2w = {
+    'username':'',
+    'password': ''
+}
